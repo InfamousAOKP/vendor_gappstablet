@@ -45,7 +45,6 @@ PRODUCT_COPY_FILES += \
 	vendor/gappstablet/proprietary/lib/libfilterpack_facedetect.so:system/lib/libfilterpack_facedetect.so \
 	vendor/gappstablet/proprietary/lib/libfrsdk.so:system/lib/libfrsdk.so \
 	vendor/gappstablet/proprietary/lib/libgoggles_clientvision.so:system/lib/libgoggles_clientvision.so \
-	vendor/gappstablet/proprietary/lib/libgoogle_recognizer_jni_l.so:system/lib/libgoogle_recognizer_jni_l.so \
 	vendor/gappstablet/proprietary/lib/libgtalk_jni.so:system/lib/libgtalk_jni.so \
 	vendor/gappstablet/proprietary/lib/libpatts_engine_jni_api.so:system/lib/libpatts_engine_jni_api.so \
 	vendor/gappstablet/proprietary/lib/libspeexwrapper.so:system/lib/libspeexwrapper.so \
